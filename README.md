@@ -83,9 +83,6 @@ Mas sempre mantendo foco e consistência em expandir meus conhecimentos, pois ta
    </br>
    </br>
 ###  📈 Estatístícas
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelFortesBrasil&show_icons=true&theme=tokyonight)
-
   <img
     align = "left"
     alt = "estatisticas"
