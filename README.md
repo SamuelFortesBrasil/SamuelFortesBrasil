@@ -1,9 +1,9 @@
 # 🤖 Samuel Fortes Brasil
 **`Futuro Desenvolvedor Full Stack`**
 
-Meu nome é Samuel Fortes Brasil, tenho 17 anos, sou natural de Santa Catarina. Concluí o Ensino Médio no ano de 2025. Atualmente curso Ciências da Computação na Universidade Federal Fronteira Sul, estando no primeiro semestre do curso, porém, estudo por conta própria a mais de 2 anos a área e suas tecnologias com o objetivo de me tornar um desenvolvedor fullstack, tendo já trabalhado com as tecnologias base: Html,Css,Javascript e Wordpress.
+Meu nome é Samuel Fortes Brasil, tenho 17 anos, sou natural de Santa Catarina. Concluí o Ensino Médio no ano de 2025. Atualmente prestes a ingressar no curso Ciências da Computação,porém, estudo por conta própria a mais de 2 anos a área e suas tecnologias com o objetivo de me tornar um desenvolvedor fullstack, tendo já trabalhado com as tecnologias base: Html,Css,Javascript,bootstrap e PHP.
      
-Mas sempre mantendo foco e consistência em expandir meus conhecimentos, pois também estou estudando com profundidade PHP, Git e Github. Sou entusiasmado por natureza quando se trata de aprender,e no futuro também pretendo aprender Java, mas sempre mantendo os pés ao chão e me especializarei em uma tecnologia a qual mais me idêntificar. 
+ Sou entusiasmado por natureza quando se trata de aprender,e no futuro também pretendo aprender Java, mas sempre mantendo os pés ao chão e me especializarei em uma tecnologia a qual mais me idêntificar. 
 
 
 
