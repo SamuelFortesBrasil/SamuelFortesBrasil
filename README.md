@@ -45,14 +45,7 @@ Meu nome é Samuel Fortes Brasil, tenho 17 anos, sou natural de Santa Catarina. 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
    />
 
-  <img
-    align = "left"
-    alt = "wordpress"
-    tittle = "html"
-    width = "30px"
-    style = "padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" 
-   />
+
 
   <img
     align = "left"
@@ -63,14 +56,7 @@ Meu nome é Samuel Fortes Brasil, tenho 17 anos, sou natural de Santa Catarina. 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
    />
 
-  <img
-    align = "left"
-    alt = "Java"
-    tittle = "html"
-    width = "30px"
-    style = "padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-   />
+
           
   <img
     align = "left"
